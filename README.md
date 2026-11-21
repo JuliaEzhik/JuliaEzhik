@@ -1,3 +1,5 @@
+<p align="center"><img src="cover.png" width="100%" alt="Julia Zhuravleva banner"></p>
+
 <h1 align="center">Julia Zhuravleva</h1>
 <h3 align="center">Senior Data Engineer — data systems, BI and analytics in Munich</h3>
 
